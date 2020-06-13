@@ -37,4 +37,5 @@ git log --oneline -n 3
 
 * ステージとコミットの差分
   git diff HEAD
+  git diff HEAD２２２
  
