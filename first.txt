@@ -5,3 +5,4 @@ https://www.udemy.com/course/intro_git/learn/lecture/6449714#overview
 git remote add origin https://github.com/tharch77/git_init.git
 git push -u origin master
 
+gitの練習2
