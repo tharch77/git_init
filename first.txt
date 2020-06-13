@@ -13,3 +13,12 @@ tharch77@gmail.com		ty75757777
 
 git add .
 git commit -v
+
+
+git status
+
+git log
+git log --oneline
+
+差分を表示する
+git log -p
