@@ -6,3 +6,10 @@ git remote add origin https://github.com/tharch77/git_init.git
 git push -u origin master
 
 gitの練習2
+
+tharch77@gmail.com		ty75757777
+						ty7575aa for github
+
+
+git add .
+git commit -v
