@@ -20,5 +20,21 @@ git status
 git log
 git log --oneline
 
-差分を表示する
+* 差分を表示する
 git log -p
+
+* 最新の個数
+git log -n 個数
+* 例
+git log --oneline -n 3
+
+
+* git diff
+
+
+* ステージとの差分
+  git diff
+
+* ステージとコミットの差分
+  git diff HEAD
+ 
