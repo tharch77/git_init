@@ -39,3 +39,24 @@ git log --oneline -n 3
   git diff HEAD
   git diff HEAD２２２
  
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ .gitignore
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Gitの管理から削除
+
+ # ファイルも一緒に削除
+  git rm ファイル名
+      これの取消！
+      git reset HEAD ファイル名
+      git checkout second.txt
+ 
+ # ディレクトリも一緒に削除
+  git rm -r ディレクトリ名
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ #  ファイルは残す
+  git rm --cached ファイル名
+    （ gitignoreに追記 ）
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
